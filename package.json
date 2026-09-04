@@ -2,7 +2,7 @@
   "name": "asistent-group-website",
   "version": "1.0.0",
   "private": true,
-  "description": "Asistent Group — сайт автоматизации бизнеса в Узбекистане (RU/UZ)",
+  "description": "Assistant Group — сайт автоматизации бизнеса в Узбекистане (RU/UZ)",
   "scripts": {
     "start": "serve -l ${PORT:-3000} .",
     "dev": "serve -l 3000 ."
